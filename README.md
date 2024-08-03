@@ -1,6 +1,8 @@
 # bamlss
 Fit Bayesian Additive Models for Location Scale and Shape (and Beyond) Use bamlss With (In) R Software
 
+https://www.youtube.com/watch?v=o4VZ69-66N4
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
